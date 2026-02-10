@@ -8,4 +8,4 @@ I’m a Software Engineer × Machine Learning Engineer currently leveling up wit
 ## 📬 Contact me
 📧 Email: jahnavivs25@gmail.com
 
-💼 LinkedIn: linkedin.com/in/jv0725
+💼 LinkedIn: [linkedin.com/in/jv0725](https://www.linkedin.com/in/jahnavivs2002/)
