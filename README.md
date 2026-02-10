@@ -8,10 +8,10 @@ I’m a Software Engineer × Machine Learning Engineer currently leveling up wit
 
 ## 💼 Experience
 
-**Software Engineer — Debula Labs**  
-Built and shipped real-world backend systems that didn’t blink under load. Worked on APIs, large-scale databases, and containerized microservices — optimizing performance, improving reliability, and making sure things stayed fast when usage spiked.
+**Software Engineer**  
+Built and shipped real-world backend systems that didn’t blink under load. Worked on APIs, large-scale databases, and containerized microservices,  optimizing performance, improving reliability, and making sure things stayed fast when usage spiked.
 
-**Machine Learning Intern — Codsoft**  
+**Machine Learning Intern**  
 Took machine learning from “cool idea” to “running in production.” Built data pipelines, trained models, and served them through APIs, focusing on accuracy, efficiency, and making ML actually useful outside a notebook.
 
 ## 📬 Contact me
